@@ -3,4 +3,4 @@
 here is my second line */
 
 console.log("Leila Radtke");
-console.log("Chicken Shawarma";)
+console.log("Chicken Shawarma");
