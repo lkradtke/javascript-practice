@@ -1,6 +1,8 @@
-//this is a single line comment//
-/* this is a comment for multiple lines
-here is my second line */
+var myVariable="Supercalifragilisticexpialidocious";
+console.log(myVariable.length);
 
-console.log("Leila Radtke");
-console.log("Chicken Shawarma");
+var myNumber=10;
+console.log(typeof myNumber, myNumber);
+
+var myBigInt=345643n;
+console.log(typeof myBigInt, myBigInt);
